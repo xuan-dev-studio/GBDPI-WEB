@@ -90,7 +90,6 @@
 
 ![](docs/imgs/截图04.png)
 
+![](docs/imgs/截图05.png)
 
-![](docs/imgs/截图07.png)
-
-![](docs/imgs/截图08.png)
+![](docs/imgs/截图06.png)
