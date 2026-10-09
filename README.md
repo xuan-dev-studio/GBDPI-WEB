@@ -53,7 +53,6 @@
 ### 环境要求
 
 - Windows10 及以上版本的操作系统，或 Linux 服务器 / Docker 环境
-- 源码运行需 Python 3.12，依赖见 `requirements.txt`
 - 平台需能访问 DPI 设备的 SSH 端口及其侧数据库网络
 - 
 ### 命令行参数
